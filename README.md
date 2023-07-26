@@ -44,6 +44,9 @@ The game keeps track of the time taken to complete the game, allowing you to cha
 - JavaScript
 - SCSS
 
+## Links
+Live Version: [Play Memory Game](https://memrisegame.netlify.app/)
+
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/yashksaini/Memory-Game.git`
 2. Open `index.html` in your web browser to play the game.
